@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://summertimegardens.co.uk/sitemap.xml
